@@ -3,4 +3,5 @@ public class SigIn{
 	private int id;
 	private int jasodjoa;
 	private String asd;
+	private int i;
 }
