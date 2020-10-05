@@ -4,4 +4,7 @@ public class SigIn{
 	private int jasodjoa;
 	private String asd;
 	private int i;
+	public void test(){
+
+	}
 }
